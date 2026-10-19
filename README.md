@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+python
 class MayankRaj:
     def __init__(self):
         self.role = "Aspiring Data Engineer"
@@ -46,7 +46,6 @@ class MayankRaj:
 
 me = MayankRaj()
 print(me.say_hello())
-```
 
 - 🎓 Information Technology — Class of 2026
 - 🐍 Exploring data-driven solutions with Python and SQL
