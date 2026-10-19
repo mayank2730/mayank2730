@@ -28,13 +28,10 @@
 
 
 
+
 ## 👨‍💻 About Me
 
-<div align="center">
-
 ### Turning Data Into Meaningful Insights 🚀
-
-</div>
 
 ```python
 class MayankRaj:
@@ -51,7 +48,6 @@ class MayankRaj:
     def introduce(self):
         return "Learning, building, and growing every day!"
 
-
 me = MayankRaj()
 print(me.introduce())
 ```
@@ -61,6 +57,7 @@ print(me.introduce())
 - 📊 **Interests:** Data Analytics and Machine Learning
 - 🛠️ **Currently exploring:** Data pipelines and ETL workflows
 - 🎯 **Goal:** Build practical solutions and grow as a Data Engineer
+
 
 
 
