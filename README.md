@@ -25,6 +25,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 ```python
@@ -42,6 +43,7 @@ class MayankRaj:
     def say_hello(self):
         return "Turning data into meaningful insights!"
 
+
 me = MayankRaj()
 print(me.say_hello())
 ```
@@ -52,7 +54,6 @@ print(me.say_hello())
 - 🛠️ Learning by building, experimenting, and solving problems
 - 🎯 Goal: Grow into a skilled Data Engineering professional
 
----
 
 ## ⚡ Technology Stack
 
