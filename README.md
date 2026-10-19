@@ -29,35 +29,29 @@
 
 
 
+
 ## 👨‍💻 About Me
 
-### Turning Data Into Meaningful Insights 🚀
+<div align="center">
 
-```python
-class MayankRaj:
-    def __init__(self):
-        self.role = "Aspiring Data Engineer"
-        self.skills = ["Python", "SQL"]
-        self.interests = [
-            "Data Engineering",
-            "Data Analytics",
-            "Machine Learning"
-        ]
-        self.current_focus = "Building practical projects"
+### 🚀 Turning Data Into Meaningful Insights
 
-    def introduce(self):
-        return "Learning, building, and growing every day!"
+*Aspiring Data Engineer | Python Developer | Data Analytics Enthusiast*
 
-me = MayankRaj()
-print(me.introduce())
-```
+</div>
 
 - 🎓 **Education:** Information Technology, Class of 2026
-- 🐍 **Languages:** Python and SQL
-- 📊 **Interests:** Data Analytics and Machine Learning
-- 🛠️ **Currently exploring:** Data pipelines and ETL workflows
-- 🎯 **Goal:** Build practical solutions and grow as a Data Engineer
+- 🐍 **Programming:** Python and SQL
+- 📊 **Interests:** Data Engineering, Data Analytics & Machine Learning
+- 🛠️ **Building:** Interactive dashboards and practical data projects
+- 🌱 **Learning:** ETL pipelines, data workflows and scalable solutions
+- 🎯 **Mission:** Transform raw data into meaningful insights through technology
 
+<div align="center">
+
+**💡 Learn. Build. Analyze. Improve.**
+
+</div>
 
 
 
