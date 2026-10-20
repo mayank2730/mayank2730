@@ -77,6 +77,7 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
@@ -93,25 +94,56 @@ An interactive dashboard for exploring sales performance, profitability, product
 - Streamlit & Plotly
 
 <a href="https://sales-data-analysis-pq3hduvssxxpflkzqkzwfg.streamlit.app/">
-<img src="https://img.shields.io/badge/Live_Demo-Launch_Dashboard-0F766E?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live_Demo-Launch_Dashboard-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Sales Dashboard"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/mayank2730/Sales-Data-Analysis">
-<img src="https://img.shields.io/badge/View_Repository-GitHub-1F2937?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Sales project repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
+
+<h3>⚙️ Retail Sales ETL Pipeline</h3>
+
+An end-to-end data engineering project that extracts, cleans, validates, and loads retail sales data into SQLite, then generates reports and displays pipeline results in a dark-themed dashboard.
+
+**Built with**
+- Python & Pandas
+- SQLite & SQL
+- Streamlit & Plotly
+
+**Highlights**
+- Processes 9,994 sales records
+- Data quality validation
+- Automated ETL workflow
+- Category and regional reports
+- Loss-making subcategory analysis
+
+<a href="https://retail-sales-etl-pipeline-hx9fssevyzmmzccjsuhaxz.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Launch_Dashboard-0F766E?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live ETL dashboard"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mayank2730/Retail-Sales-ETL-Pipeline">
+<img src="https://img.shields.io/badge/View_Repository-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="ETL project repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <h3>🤖 Customer Churn Prediction</h3>
 
 A machine learning project that analyzes customer data and predicts churn using classification models.
 
 **Built with**
-- Python & Pandas
-- NumPy & Scikit-learn
+- Python, Pandas & NumPy
+- Scikit-learn
 - Data preprocessing & model evaluation
 
 **Highlights**
@@ -121,14 +153,13 @@ A machine learning project that analyzes customer data and predicts churn using 
 - Decision threshold analysis
 
 <a href="https://github.com/mayank2730/Customer-Churn-Prediction">
-<img src="https://img.shields.io/badge/View_Repository-GitHub-1F2937?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Customer churn repository"/>
 </a>
 
 </td>
 </tr>
 </table>
 
----
 
 ## 📈 GitHub Analytics
 
